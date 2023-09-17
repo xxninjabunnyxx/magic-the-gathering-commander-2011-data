@@ -1,0 +1,113 @@
+---
+object: card
+id: bf9643cb-de43-4382-a4d7-26561d4dff00
+oracle_id: 529ace49-c50e-4d3e-ac29-91e08af57fdc
+multiverse_ids:
+- 236500
+mtgo_id: 40649
+mtgo_foil_id: 40969
+tcgplayer_id: 47272
+cardmarket_id: 247058
+name: Scythe Specter
+lang: en
+released_at: '2011-06-17'
+uri: https://api.scryfall.com/cards/bf9643cb-de43-4382-a4d7-26561d4dff00
+scryfall_uri: https://scryfall.com/card/cmd/97/scythe-specter?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/b/f/bf9643cb-de43-4382-a4d7-26561d4dff00.jpg?1592713372
+  normal: https://cards.scryfall.io/normal/front/b/f/bf9643cb-de43-4382-a4d7-26561d4dff00.jpg?1592713372
+  large: https://cards.scryfall.io/large/front/b/f/bf9643cb-de43-4382-a4d7-26561d4dff00.jpg?1592713372
+  png: https://cards.scryfall.io/png/front/b/f/bf9643cb-de43-4382-a4d7-26561d4dff00.png?1592713372
+  art_crop: https://cards.scryfall.io/art_crop/front/b/f/bf9643cb-de43-4382-a4d7-26561d4dff00.jpg?1592713372
+  border_crop: https://cards.scryfall.io/border_crop/front/b/f/bf9643cb-de43-4382-a4d7-26561d4dff00.jpg?1592713372
+mana_cost: "{4}{B}{B}"
+cmc: 6.0
+type_line: Creature — Specter
+oracle_text: |-
+  Flying
+  Whenever Scythe Specter deals combat damage to a player, each opponent discards a card. Each player who discarded a card with the highest mana value among cards discarded this way loses life equal to that mana value.
+power: '4'
+toughness: '4'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 84ff1a64-4e69-4ed2-8c08-26206e3b97a0
+set: cmd
+set_name: Commander 2011
+set_type: commander
+set_uri: https://api.scryfall.com/sets/84ff1a64-4e69-4ed2-8c08-26206e3b97a0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acmd&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cmd?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/bf9643cb-de43-4382-a4d7-26561d4dff00/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A529ace49-c50e-4d3e-ac29-91e08af57fdc&unique=prints
+collector_number: '97'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Vincent Proce
+artist_ids:
+- d82b1138-76d3-49f7-9d8c-bc2e2d3e0b0a
+illustration_id: 36afbc85-231b-4b38-a856-e618a19a687d
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 10257
+prices:
+  usd: '1.08'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.25'
+  eur_foil: 
+  tix: '0.23'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=236500
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Scythe+Specter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Scythe+Specter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Scythe+Specter
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/47272?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Scythe+Specter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/40649?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

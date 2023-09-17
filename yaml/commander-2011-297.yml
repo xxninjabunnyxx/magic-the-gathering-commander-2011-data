@@ -1,0 +1,117 @@
+---
+object: card
+id: 59eddb1d-a8aa-4eaa-a3f1-14bd2cecadd9
+oracle_id: dee99df5-628f-4a4e-a203-4dfddc927373
+multiverse_ids:
+- 247310
+mtgo_id: 40499
+mtgo_foil_id: 40819
+tcgplayer_id: 47286
+cardmarket_id: 247379
+name: Vivid Meadow
+lang: en
+released_at: '2011-06-17'
+uri: https://api.scryfall.com/cards/59eddb1d-a8aa-4eaa-a3f1-14bd2cecadd9
+scryfall_uri: https://scryfall.com/card/cmd/297/vivid-meadow?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/9/59eddb1d-a8aa-4eaa-a3f1-14bd2cecadd9.jpg?1592714752
+  normal: https://cards.scryfall.io/normal/front/5/9/59eddb1d-a8aa-4eaa-a3f1-14bd2cecadd9.jpg?1592714752
+  large: https://cards.scryfall.io/large/front/5/9/59eddb1d-a8aa-4eaa-a3f1-14bd2cecadd9.jpg?1592714752
+  png: https://cards.scryfall.io/png/front/5/9/59eddb1d-a8aa-4eaa-a3f1-14bd2cecadd9.png?1592714752
+  art_crop: https://cards.scryfall.io/art_crop/front/5/9/59eddb1d-a8aa-4eaa-a3f1-14bd2cecadd9.jpg?1592714752
+  border_crop: https://cards.scryfall.io/border_crop/front/5/9/59eddb1d-a8aa-4eaa-a3f1-14bd2cecadd9.jpg?1592714752
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  Vivid Meadow enters the battlefield tapped with two charge counters on it.
+  {T}: Add {W}.
+  {T}, Remove a charge counter from Vivid Meadow: Add one mana of any color.
+colors: []
+color_identity:
+- W
+keywords: []
+produced_mana:
+- B
+- G
+- R
+- U
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 84ff1a64-4e69-4ed2-8c08-26206e3b97a0
+set: cmd
+set_name: Commander 2011
+set_type: commander
+set_uri: https://api.scryfall.com/sets/84ff1a64-4e69-4ed2-8c08-26206e3b97a0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acmd&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cmd?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/59eddb1d-a8aa-4eaa-a3f1-14bd2cecadd9/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Adee99df5-628f-4a4e-a203-4dfddc927373&unique=prints
+collector_number: '297'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Rob Alexander
+artist_ids:
+- 35906871-6c78-4ab2-9ed1-e6792c8efb74
+illustration_id: a2d5c992-339c-40fb-8c21-49a8f2d61483
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 2517
+penny_rank: 736
+prices:
+  usd: '0.20'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.10'
+  eur_foil: 
+  tix: '0.03'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247310
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Vivid+Meadow&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Vivid+Meadow&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Vivid+Meadow
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/47286?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Vivid+Meadow&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/40499?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

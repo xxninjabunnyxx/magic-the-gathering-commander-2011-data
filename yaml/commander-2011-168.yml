@@ -1,0 +1,110 @@
+---
+object: card
+id: ed4ed122-c1da-4440-8c2d-7bd079682f90
+oracle_id: 92381398-94f6-471f-874a-b5894e6f9487
+multiverse_ids:
+- 247551
+mtgo_id: 40570
+mtgo_foil_id: 40890
+tcgplayer_id: 47513
+cardmarket_id: 247321
+name: Relic Crush
+lang: en
+released_at: '2011-06-17'
+uri: https://api.scryfall.com/cards/ed4ed122-c1da-4440-8c2d-7bd079682f90
+scryfall_uri: https://scryfall.com/card/cmd/168/relic-crush?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/d/ed4ed122-c1da-4440-8c2d-7bd079682f90.jpg?1592713849
+  normal: https://cards.scryfall.io/normal/front/e/d/ed4ed122-c1da-4440-8c2d-7bd079682f90.jpg?1592713849
+  large: https://cards.scryfall.io/large/front/e/d/ed4ed122-c1da-4440-8c2d-7bd079682f90.jpg?1592713849
+  png: https://cards.scryfall.io/png/front/e/d/ed4ed122-c1da-4440-8c2d-7bd079682f90.png?1592713849
+  art_crop: https://cards.scryfall.io/art_crop/front/e/d/ed4ed122-c1da-4440-8c2d-7bd079682f90.jpg?1592713849
+  border_crop: https://cards.scryfall.io/border_crop/front/e/d/ed4ed122-c1da-4440-8c2d-7bd079682f90.jpg?1592713849
+mana_cost: "{4}{G}"
+cmc: 5.0
+type_line: Instant
+oracle_text: Destroy target artifact or enchantment and up to one other target artifact
+  or enchantment.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 84ff1a64-4e69-4ed2-8c08-26206e3b97a0
+set: cmd
+set_name: Commander 2011
+set_type: commander
+set_uri: https://api.scryfall.com/sets/84ff1a64-4e69-4ed2-8c08-26206e3b97a0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acmd&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cmd?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ed4ed122-c1da-4440-8c2d-7bd079682f90/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A92381398-94f6-471f-874a-b5894e6f9487&unique=prints
+collector_number: '168'
+digital: false
+rarity: common
+flavor_text: There are many ruins, but there used to be many more.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steven Belledin
+artist_ids:
+- f07d73b9-52a0-4fe5-858b-61f7b42174a5
+illustration_id: 203223ee-b8dd-4eeb-a2b5-0b54b5958504
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 14468
+prices:
+  usd: '0.11'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.05'
+  eur_foil: 
+  tix: '0.05'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247551
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Relic+Crush&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Relic+Crush&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Relic+Crush
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/47513?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Relic+Crush&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/40570?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

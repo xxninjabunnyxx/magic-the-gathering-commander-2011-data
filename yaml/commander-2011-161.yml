@@ -1,0 +1,114 @@
+---
+object: card
+id: c669fb72-1dfe-498d-9f4e-f17e060b0b93
+oracle_id: 8f504855-f3df-4284-a189-e799bcddf620
+multiverse_ids:
+- 228247
+mtgo_id: 40664
+mtgo_foil_id: 40984
+tcgplayer_id: 46953
+cardmarket_id: 246739
+name: Hydra Omnivore
+lang: en
+released_at: '2011-06-17'
+uri: https://api.scryfall.com/cards/c669fb72-1dfe-498d-9f4e-f17e060b0b93
+scryfall_uri: https://scryfall.com/card/cmd/161/hydra-omnivore?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/6/c669fb72-1dfe-498d-9f4e-f17e060b0b93.jpg?1592713799
+  normal: https://cards.scryfall.io/normal/front/c/6/c669fb72-1dfe-498d-9f4e-f17e060b0b93.jpg?1592713799
+  large: https://cards.scryfall.io/large/front/c/6/c669fb72-1dfe-498d-9f4e-f17e060b0b93.jpg?1592713799
+  png: https://cards.scryfall.io/png/front/c/6/c669fb72-1dfe-498d-9f4e-f17e060b0b93.png?1592713799
+  art_crop: https://cards.scryfall.io/art_crop/front/c/6/c669fb72-1dfe-498d-9f4e-f17e060b0b93.jpg?1592713799
+  border_crop: https://cards.scryfall.io/border_crop/front/c/6/c669fb72-1dfe-498d-9f4e-f17e060b0b93.jpg?1592713799
+mana_cost: "{4}{G}{G}"
+cmc: 6.0
+type_line: Creature — Hydra
+oracle_text: Whenever Hydra Omnivore deals combat damage to an opponent, it deals
+  that much damage to each other opponent.
+power: '8'
+toughness: '8'
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 84ff1a64-4e69-4ed2-8c08-26206e3b97a0
+set: cmd
+set_name: Commander 2011
+set_type: commander
+set_uri: https://api.scryfall.com/sets/84ff1a64-4e69-4ed2-8c08-26206e3b97a0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acmd&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cmd?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c669fb72-1dfe-498d-9f4e-f17e060b0b93/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8f504855-f3df-4284-a189-e799bcddf620&unique=prints
+collector_number: '161'
+digital: false
+rarity: rare
+flavor_text: |-
+  "We should learn from the hydra. It never plays favorites; it devours everyone equally."
+  —Thrass, elder druid
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Svetlin Velinov
+artist_ids:
+- ffd063ae-c097-4f26-b2e6-b1e2137708bc
+illustration_id: c6d6108c-714b-4d72-a29f-783d96ae5c11
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 3702
+prices:
+  usd: '3.02'
+  usd_foil: 
+  usd_etched: 
+  eur: '1.35'
+  eur_foil: 
+  tix: '0.84'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=228247
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hydra+Omnivore&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hydra+Omnivore&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hydra+Omnivore
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/46953?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hydra+Omnivore&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/40664?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

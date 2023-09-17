@@ -1,0 +1,114 @@
+---
+object: card
+id: a677212a-c275-41e3-90c9-be2a866f8091
+oracle_id: d36e0c9f-c025-4dfe-9644-9cad2461ce38
+multiverse_ids:
+- 247277
+mtgo_id: 40746
+mtgo_foil_id: 41066
+tcgplayer_id: 47372
+cardmarket_id: 247247
+name: Gruul Signet
+lang: en
+released_at: '2011-06-17'
+uri: https://api.scryfall.com/cards/a677212a-c275-41e3-90c9-be2a866f8091
+scryfall_uri: https://scryfall.com/card/cmd/250/gruul-signet?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/6/a677212a-c275-41e3-90c9-be2a866f8091.jpg?1592714439
+  normal: https://cards.scryfall.io/normal/front/a/6/a677212a-c275-41e3-90c9-be2a866f8091.jpg?1592714439
+  large: https://cards.scryfall.io/large/front/a/6/a677212a-c275-41e3-90c9-be2a866f8091.jpg?1592714439
+  png: https://cards.scryfall.io/png/front/a/6/a677212a-c275-41e3-90c9-be2a866f8091.png?1592714439
+  art_crop: https://cards.scryfall.io/art_crop/front/a/6/a677212a-c275-41e3-90c9-be2a866f8091.jpg?1592714439
+  border_crop: https://cards.scryfall.io/border_crop/front/a/6/a677212a-c275-41e3-90c9-be2a866f8091.jpg?1592714439
+mana_cost: "{2}"
+cmc: 2.0
+type_line: Artifact
+oracle_text: "{1}, {T}: Add {R}{G}."
+colors: []
+color_identity:
+- G
+- R
+keywords: []
+produced_mana:
+- G
+- R
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: true
+variation: false
+set_id: 84ff1a64-4e69-4ed2-8c08-26206e3b97a0
+set: cmd
+set_name: Commander 2011
+set_type: commander
+set_uri: https://api.scryfall.com/sets/84ff1a64-4e69-4ed2-8c08-26206e3b97a0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Acmd&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/cmd?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a677212a-c275-41e3-90c9-be2a866f8091/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad36e0c9f-c025-4dfe-9644-9cad2461ce38&unique=prints
+collector_number: '250'
+digital: false
+rarity: common
+flavor_text: Gruul territorial markings need not be legible. The blood, snot, and
+  muck used to smear them are unmistakably Gruul.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Greg Hildebrandt
+artist_ids:
+- 020f967b-0d2f-4166-aabe-901dba8bc7ec
+illustration_id: 0ff26069-b44e-43e6-96bd-f0124eafee1e
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+edhrec_rank: 430
+penny_rank: 2431
+prices:
+  usd: '0.86'
+  usd_foil: 
+  usd_etched: 
+  eur: '0.25'
+  eur_foil: 
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=247277
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Gruul+Signet&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Gruul+Signet&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Gruul+Signet
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/47372?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Gruul+Signet&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/40746?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
